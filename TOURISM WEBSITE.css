@@ -1,0 +1,28 @@
+.card {
+    background-image: url("https://www.planetware.com/wpimages/2021/10/world-tourist-attractions-eiffel-tower-flowers-spring.jpg");
+    background-color: lightblue;
+    text-align: center;
+    background-size: cover;
+    height: 100vh;
+    width: 80vw;
+    padding: 50px;
+    font-family: fantasy;
+}
+
+.main-heading {
+    color: blue;
+    font-size: 100px;
+}
+
+.paragraph {
+    color: grey;
+    font-size: 50px;
+}
+
+.button {
+    border-radius: 30px;
+    height: 40px;
+    width: 80px;
+    background-color: green;
+    font-weight: bold;
+}
